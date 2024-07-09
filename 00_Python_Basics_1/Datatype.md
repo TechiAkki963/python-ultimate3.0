@@ -11,3 +11,7 @@
 # Classes -> Custom types
 
 # Specialized Data Types
+
+
+# Math Functions
+https://docs.python.org/3/library/math.html

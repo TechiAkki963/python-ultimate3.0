@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fba1c1-9b22-421e-972b-2cc0f8d7e6a2" name="Changes" comment="datatype.py">
-      <change afterPath="$PROJECT_DIR$/00_Python_Basics_1/Datatype.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_Python_Basics_1/numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Python_Basics_1/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_Python_Basics_1/Datatype.md" beforeDir="false" afterPath="$PROJECT_DIR$/00_Python_Basics_1/Datatype.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.hihi.executor": "Run",
+    "Python.math.executor": "Run",
     "Python.numbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

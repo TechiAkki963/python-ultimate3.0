@@ -1,3 +1,5 @@
+![Datatypes](image.png)
+
 # Datatypes / Object types
 
 - Numbers: 1234, 3.14, 3+4j, 0b111, Decimal(), Fraction()

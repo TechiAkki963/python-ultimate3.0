@@ -1,6 +1,6 @@
 # Python innner working
 
-![inner works diagram](inner_works.jpg)
+![inner works diagram](./Images/inner_works.jpg)
 
 - Python code is compiled to Byte code (low level code & Platform independent)
 
@@ -9,7 +9,7 @@
 
   __ pycache__
 
-  ![file](file.jpg)
+  ![file](./Images/file.jpg)
    - Works only for imported files
    - not generated for main file
 

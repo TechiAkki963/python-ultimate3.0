@@ -23,3 +23,7 @@
 - Functions, modules, classes
 
 - Advance : Decorators, Generators, Iterators, MetaProgramming
+
+**
+List is mutable 
+tuple is Immutable
